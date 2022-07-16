@@ -11,6 +11,10 @@ public class Student {
 		s1.name="Sunil";
 		System.out.println(s1.id);		
 		System.out.println(s1.name);
+		
+		System.out.println("testing the GIT");
+		System.out.println("testing the GIT Execution");
+		System.out.println("testing the GIT Handling");
 	}
 
 }
